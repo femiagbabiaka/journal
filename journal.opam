@@ -5,5 +5,5 @@ maintainer: "Femi Agbabiaka <femi@femiagbabiaka.xyz>"
 authors: [ "Femi Agbabiaka <femi@femiagbabiaka.xyz>" ]
 license: "Apache License, Version 2.0"
 build: [
-  ["jbuilder" "build" "--only" "journal-ocaml" "--root" "." "-j" jobs "@install"]
+  ["jbuilder" "build" "--only" "journal" "--root" "." "-j" jobs "@install"]
 ]

@@ -1,0 +1,10 @@
+lib: [
+  "_build/install/default/lib/journal/META" {"META"}
+  "_build/install/default/lib/journal/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/journal" {"journal"}
+]
+doc: [
+  "_build/install/default/doc/journal/LICENSE"
+]
