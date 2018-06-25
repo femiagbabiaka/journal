@@ -1,0 +1,6 @@
+(jbuild_version 1)
+
+(executable
+  ((name main)
+   (public_name journal)
+   (libraries (entry date_action helpers cmdliner))))
